@@ -2,10 +2,10 @@
 daily leetcode algorithm practice
 
 ## Questions
-**For example. SQL **
+**For example. SQL**
  - question #1 this will link to the markdown page of this leetcode problem created by member
 
-**For example. Dynamic Programming **
+**For example. Dynamic Programming**
  - question #1
 
 ## Useful resource link 
