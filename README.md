@@ -4,6 +4,8 @@ daily leetcode algorithm practice. please sumbit your daily code into target fol
 ## Questions
 **2021-Sep-2**
  - 202.Happy Number:  https://leetcode.com/problems/happy-number/
+ - **2021-Sep-3**
+ - 506.Relative Ranks  https://leetcode.com/problems/relative-ranks/
 
 **For example. Dynamic Programming**
  - question #1
