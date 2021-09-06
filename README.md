@@ -9,9 +9,6 @@ daily leetcode algorithm practice. please sumbit your daily code into target fol
  - 506.Relative Ranks:  https://leetcode.com/problems/relative-ranks/ **2021-Sep-3**
  - 144.Binary Tree Preorder Traversal: https://leetcode.com/problems/binary-tree-preorder-traversal/ **2021-Sep-6**
 
-**For example. Dynamic Programming**
- - question #1
-
 ## Useful resource link 
  - [leetcode](https://leetcode.com/problemset/all/?page=1)
  - [algoexpert](https://www.algoexpert.io/questions)
