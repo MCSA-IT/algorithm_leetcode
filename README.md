@@ -4,10 +4,10 @@
 ## Questions
 **Your daily tasks can be found here**
 
- - 70.Climbing Stairs  https://leetcode.com/problems/climbing-stairs/ **2021-Sep-1**
- - 202.Happy Number:  https://leetcode.com/problems/happy-number/ **2021-Sep-2**
- - 506.Relative Ranks:  https://leetcode.com/problems/relative-ranks/ **2021-Sep-3**
- - 144.Binary Tree Preorder Traversal: https://leetcode.com/problems/binary-tree-preorder-traversal/ **2021-Sep-6**
+ - 70.Climbing Stairs  https://leetcode.com/problems/climbing-stairs/ **20210901**
+ - 202.Happy Number:  https://leetcode.com/problems/happy-number/ **20210902**
+ - 506.Relative Ranks:  https://leetcode.com/problems/relative-ranks/ **20210903**
+ - 144.Binary Tree Preorder Traversal: https://leetcode.com/problems/binary-tree-preorder-traversal/ **20210906**
 
 ## Useful resource link 
  - [leetcode](https://leetcode.com/problemset/all/?page=1)
