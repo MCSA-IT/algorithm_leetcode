@@ -4,17 +4,10 @@ daily leetcode algorithm practice. please sumbit your daily code into target fol
 ## Questions
 **Your daily tasks can be found here**
 
-**2021-Sep-1**
- - 70.Climbing Stairs  https://leetcode.com/problems/climbing-stairs/
- 
-**2021-Sep-2**
- - 202.Happy Number:  https://leetcode.com/problems/happy-number/
-
-**2021-Sep-3**
- - 506.Relative Ranks:  https://leetcode.com/problems/relative-ranks/
-
-**2021-Sep-6**
- - 144.Binary Tree Preorder Traversal: https://leetcode.com/problems/binary-tree-preorder-traversal/
+ - 70.Climbing Stairs  https://leetcode.com/problems/climbing-stairs/ **2021-Sep-1**
+ - 202.Happy Number:  https://leetcode.com/problems/happy-number/ **2021-Sep-2**
+ - 506.Relative Ranks:  https://leetcode.com/problems/relative-ranks/ **2021-Sep-3**
+ - 144.Binary Tree Preorder Traversal: https://leetcode.com/problems/binary-tree-preorder-traversal/ **2021-Sep-6**
 
 **For example. Dynamic Programming**
  - question #1
