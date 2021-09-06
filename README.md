@@ -3,7 +3,7 @@ daily leetcode algorithm practice. please sumbit your daily code into target fol
 
 ## Questions
 **2021-Sep-2**
- - question #1 this will link to the markdown page of this leetcode problem created by member
+ - 202. Happy Number:  https://leetcode.com/problems/happy-number/
 
 **For example. Dynamic Programming**
  - question #1
