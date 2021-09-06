@@ -8,6 +8,7 @@
  - 202.Happy Number:  https://leetcode.com/problems/happy-number/ **2021-9-2**
  - 506.Relative Ranks:  https://leetcode.com/problems/relative-ranks/ **2021-9-3**
  - 144.Binary Tree Preorder Traversal: https://leetcode.com/problems/binary-tree-preorder-traversal/ **2021-9-6**
+ - 1784.Check if Binary String Has at Most One Segment of Ones: https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/ **2021-9-7**
 
 ## Useful resource link 
  - [leetcode](https://leetcode.com/problemset/all/?page=1)
