@@ -1,5 +1,5 @@
 # algorithm_leetcode
-daily leetcode algorithm practice. please sumbit your daily code into target folders
+**daily leetcode algorithm practice. please sumbit your daily code into target folders**
 
 ## Questions
 **Your daily tasks can be found here**
