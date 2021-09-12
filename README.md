@@ -10,6 +10,7 @@
  - 144.[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) **2021-9-6**
  - 1784.[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) **2021-9-7**
  - 503.[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) **2021-9-8**
+ - 674.[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) **2021-9-13**
 
 ## Useful resource link 
  - [leetcode](https://leetcode.com/problemset/all/?page=1)
