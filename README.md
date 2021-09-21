@@ -14,6 +14,7 @@
  - 316.[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) **2021-9-15**
  - 1331.[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) **2021-9-17**
  - 118.[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) **2021-9-20**
+ - 1528.[Shuffle String](https://leetcode.com/problems/shuffle-string/) **2021-9-22**
 
 ## Useful resource link 
  - [leetcode](https://leetcode.com/problemset/all/?page=1)
