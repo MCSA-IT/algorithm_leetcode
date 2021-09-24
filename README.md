@@ -15,6 +15,7 @@
  - 1331.[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) **2021-9-17**
  - 118.[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) **2021-9-20**
  - 1528.[Shuffle String](https://leetcode.com/problems/shuffle-string/) **2021-9-22**
+ - 485.[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) **2021-9-24**
 
 ## Useful resource link 
  - [leetcode](https://leetcode.com/problemset/all/?page=1)
