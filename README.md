@@ -16,6 +16,7 @@
  - 118.[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) **2021-9-20**
  - 1528.[Shuffle String](https://leetcode.com/problems/shuffle-string/) **2021-9-22**
  - 485.[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) **2021-9-24**
+ - 713.[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) **2021-10-4**
 
 ## Useful resource link 
  - [leetcode](https://leetcode.com/problemset/all/?page=1)
