@@ -18,6 +18,7 @@
  - 485.[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) **2021-9-24**
  - 713.[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) **2021-10-4**
  - 461.[Hamming Distance](https://leetcode.com/problems/hamming-distance/) **2021-10-6**
+ - 1046.[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) **2021-10-8**
 
 ## Useful resource link 
  - [leetcode](https://leetcode.com/problemset/all/?page=1)
