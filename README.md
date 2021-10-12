@@ -19,6 +19,8 @@
  - 713.[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) **2021-10-4**
  - 461.[Hamming Distance](https://leetcode.com/problems/hamming-distance/) **2021-10-6**
  - 1046.[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) **2021-10-8**
+ - 1324.[Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) **2021-10-11**
+ - 1701.[Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) **2021-10-13**
 
 ## Useful resource link 
  - [leetcode](https://leetcode.com/problemset/all/?page=1)
